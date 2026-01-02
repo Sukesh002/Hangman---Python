@@ -26,4 +26,4 @@ Player loses when all attempts are used.
 
 
 # Note :
-In this file it has only three to four fruits name's as you can add many more or can change it
+In this file it has only three to four fruit name's as you can add many more or can change it
